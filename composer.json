@@ -4,12 +4,12 @@
     "type": "library",
     "license": "MIT",
     "authors": [{
-        "name": "iRaziul",
+        "name": "Raziul Islam",
         "email": "raziul.cse@gmail.com"
     }],
     "autoload": {
         "psr-4": {
-            "iRaziul\\Translation\\": "src/"
+            "Raziul\\Translation\\": "src/"
         }
     },
     "config": {

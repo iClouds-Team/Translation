@@ -3,7 +3,7 @@
 require __DIR__ . '/../vendor/autoload.php';
 
 // Creating instance
-$t = new \iRaziul\Translation\Translator(__DIR__ . '/locales');
+$t = new Raziul\Translation\Translator(__DIR__ . '/locales');
 
 // Set current locale
 $t->setLocale('en_US');

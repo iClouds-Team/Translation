@@ -1,6 +1,6 @@
 <?php
 
-namespace iRaziul\Translation;
+namespace Raziul\Translation;
 
 use RuntimeException;
 
@@ -9,7 +9,7 @@ use RuntimeException;
  * 
  * @author Raziul Islam <raziul.cse@gmail.com>
  * @link https://raziulislam.com
- * @package iRaziul\Translation
+ * @package Raziul\Translation
  */
 class Translator
 {
